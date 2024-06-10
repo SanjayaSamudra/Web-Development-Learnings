@@ -24,3 +24,8 @@ body{
     margin-right: auto;
     width: 50%;
 }
+marquee{
+    max-width: 100%;
+    color: blue;
+    background-color: rgb(156, 200, 245);
+}
