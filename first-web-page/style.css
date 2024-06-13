@@ -19,6 +19,11 @@ details{
 }
 .para1{
     text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 0.5px;
+    border-spacing: 5px;
 }
 body{
     background-color: lightblue;
@@ -38,4 +43,10 @@ marquee{
     max-width: 100%;
     color: blue;
     background-color: rgb(156, 200, 245);
+}
+p{
+    /* border-style: solid;
+    border-color: black;*/
+    color: black;
+    
 }
