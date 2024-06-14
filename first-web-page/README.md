@@ -2,8 +2,9 @@ My first web page, created using basics of HTML & CSS.
 # My First Web Page
 ## Description
 	 This includes the basic HTML and CSS that I have learned until now.
-	 Pictures that are used here are free and open-source ones directly extracted from
-	 https://pixabay.com/photos/search/vehicle/.
+	 Pictures used here are free and open-source ones directly extracted from
+	 	https://pixabay.com/photos/search/vehicle/.
+  	 	https://unsplash.com/s/photos/toyota
 
 ## Contribution
 	 Thanks to my family and teachers for helping me acquire knowledge and showing 
