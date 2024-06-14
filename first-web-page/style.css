@@ -1,23 +1,29 @@
 h1 {
+    font-size: 50px;
     text-align: center;
     color: blue;
     padding: 25px;
     text-decoration: underline;
 }
 h3{
+    font-size: xx-large;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif ;
+    font-style: normal ;
 }
 h4{
     padding-bottom: 2px;
     color: green;
 }
 ul{
-    color: blueviolet;
+    color: red;
 }
 details{
     color: rgb(58, 26, 119);
 }
 .para1{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     border-style: solid;
     border-color: black;
