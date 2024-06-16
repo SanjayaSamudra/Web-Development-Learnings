@@ -1,5 +1,7 @@
 # Web-Development-Learnings
 <ul>
-  This is where I document what I've learned about web development.
+  <li>
+    This is where I document what I've learned about web development.
+  </li>
 </ul>
 
