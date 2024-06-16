@@ -18,6 +18,26 @@ h4{
 ul{
     color: red;
 }
+#ul1{
+    background-color: blue;
+    list-style: none;
+}
+ul li{
+    background-color: aqua;
+    padding: 5px ;
+    border-radius: 10px;
+    margin: 10px;
+    float: left;
+    bottom: 10px;
+    position: relative;
+    font-weight: 600;
+    font-size: large;
+    cursor: pointer;
+    color: white;
+}
+ul li:hover{
+    background-color: brown;
+}
 details{
     color: rgb(58, 26, 119);
 }
@@ -38,6 +58,9 @@ body{
 .link{
     text-align: center;
     cursor: pointer; 
+}
+#l1{
+    text-align: left;
 }
 .center{
     display: block;
