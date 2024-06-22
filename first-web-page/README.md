@@ -17,7 +17,7 @@ My first web page, created using basics of HTML & CSS.
 	  </ul>
   </li>
   <li>
-     Using Bootstrap for further decorations.
+     Used Bootstrap for further decorations.
   </li>
 </ul>
 
