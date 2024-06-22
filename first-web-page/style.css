@@ -85,3 +85,36 @@ p{
     color: black;
     
 }
+@media screen and (max-width: 575.98px) { 
+    body {
+        background-color: rgb(118, 191, 240);
+    } 
+}
+
+/* `md` applies to small devices (landscape phones, less than 768px) */
+@media screen and (max-width:767.98px) { 
+    body {
+        background-color: rgb(114, 238, 176);
+    }
+ }
+
+/* // `lg` applies to medium devices (tablets, less than 992px) */
+@media screen and (max-width:991.98px) { 
+    body {
+        background-color: rgb(183, 230, 109);
+    }
+ }
+
+/* // `xl` applies to large devices (desktops, less than 1200px) */
+@media screen and (max-width:1199.98px) { 
+    body {
+        background-color: rgb(238, 119, 185);
+    }
+ }
+
+/* // `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media screen and (max-width:1399.98px) { 
+    body {
+        background-color: rgb(137, 111, 233);
+    }
+ }
