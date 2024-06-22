@@ -52,12 +52,18 @@ details{
     border-spacing: 5px;
 }
 body{
-    background-color: lightblue;
+    background-color: rgb(106, 143, 155);
     padding: 0px 70px 0px 70px;
 }
 .link{
     text-align: center;
     cursor: pointer; 
+}
+/* #link2{
+    text-decoration: none;
+} */
+a:link{
+    text-decoration: none;
 }
 #l1{
     text-align: left;
