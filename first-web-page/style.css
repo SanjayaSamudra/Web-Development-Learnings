@@ -118,3 +118,27 @@ p{
         background-color: rgb(137, 111, 233);
     }
  }
+
+ .navi{
+    color: white;
+ }
+
+ .nextImg1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+
+ .nextBody{
+    background-color: rgb(224, 171, 215);
+ }
+ .indexBody{
+    background-color: rgb(216, 143, 143);
+ }
+ .nextWebBody{
+    background-color: rgb(150, 185, 216);
+ }
+ .bootstrap{
+    background-color: blue;
+ }
