@@ -34,6 +34,8 @@ ul li{
     font-size: large;
     cursor: pointer;
     color: white;
+    text-decoration: none;
+    list-style-type: none;
 }
 ul li:hover{
     background-color: brown;
@@ -50,6 +52,7 @@ details{
     border-radius: 10px;
     border-width: 0.5px;
     border-spacing: 5px;
+    background-color: bisque;
 }
 body{
     background-color: rgb(106, 143, 155);
@@ -142,3 +145,7 @@ p{
  .bootstrap{
     background-color: blue;
  }
+
+ .list1:hover{
+    background-color: rgb(83, 64, 253);
+}
